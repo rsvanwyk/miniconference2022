@@ -1,0 +1,81 @@
+body {
+  background-color: #FFE5B4;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: left;
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 60px auto;
+  width: 1000px;
+}
+
+/* Website Banner */
+.banner {
+  background-color: #1F4690;
+  padding: 5px 20px 5px 20px;
+}
+h1 {
+  color: #FFA500;
+  text-align: center;
+  line-height: normal;
+  font-family: sans-serif;
+}
+h4 {
+  color: #FFA500;
+  text-align: right;
+}
+
+/* Navigation Links */
+a {
+  color: #FFA500;
+}
+.currentpage {
+  color: #3A5BA0;
+}
+a:hover {
+  color: #3A5BA0;
+}
+.navigation {
+  text-align: center;
+  width: 400px;
+  font-size: 1.2em;
+}
+
+/* Contents */
+h2 {
+  color: #FFA500;
+  text-align: left;
+}
+img {
+  height: 80px;
+}
+.organizers {
+  width: 80%;
+  text-align: center;
+}
+
+/* Table on the Program Page */
+.time {
+  white-space: nowrap;
+  width: 130px;
+  text-align: right;
+  vertical-align: top;
+  padding: 4px 16px 0 0;
+}
+.title {
+  width: 90%;
+  vertical-align: top;
+  font-size: 1.5em;
+  color: #3A5BA0;
+  height: 32px;
+  padding: 4px 12px 4px 4px;
+}
+.speaker {
+  font-style: italic;
+  font-size: 1em;
+  padding: 4px 12px 4px 4px;
+}
+.abstract {
+  font-size: 1em;
+  padding: 4px 12px 4px 4px;
+}
