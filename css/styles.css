@@ -46,10 +46,17 @@ h2 {
   color: #FFA500;
   text-align: left;
 }
-img {
+.headshot {
   height: 80px;
 }
 .organizers {
+  width: 80%;
+  text-align: center;
+}
+.logo {
+  height: 80px;
+}
+.universities {
   width: 80%;
   text-align: center;
 }
